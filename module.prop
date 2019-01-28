@@ -1,0 +1,7 @@
+id=disablecamerasounds
+name=Disable Camera Sounds
+version=v1
+versionCode=1
+author=Celso
+description=Disables the camera shutter and video recording sounds.
+minMagisk=1500
